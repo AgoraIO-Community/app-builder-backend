@@ -1,3 +1,6 @@
+
+**IMPORTANT: This repositorty is deprecated. Please use: https://github.com/AgoraIO/app-builder-backend**
+
 <h3 align="center">Agora App Builder - Backend</h3>
 
 <div align="center">
@@ -5,7 +8,6 @@
   [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
   [![GitHub Issues](https://img.shields.io/github/issues/samyak-jain/AgoraBackend.svg)](https://github.com/samyak-jain/AgoraBackend/issues)
   [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/samyak-jain/AgoraBackend.svg)](https://github.com/samyak-jain/AgoraBackend/pulls)
-  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
 
